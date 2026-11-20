@@ -67,7 +67,7 @@ Revenue = 1 + 2 + 3 = 6
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-20T09:18:05.118Z  
+**Submitted:** 2026-11-20T09:18:19.807Z  
 
 ```java
 import java.util.Scanner;
