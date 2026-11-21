@@ -59,7 +59,7 @@ Here, A = {5, 2, 0, 8, 0, 2, 1}. The dataset contains zeros at position 2 and 4.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-21T16:55:05.067Z  
+**Submitted:** 2026-11-21T16:58:43.278Z  
 
 ```java
 import java.io.*;
@@ -86,10 +86,8 @@ public class Solution {
             insertPos++;
         }
        for (int i = 0; i < n; i++) {
-    System.out.print(arr[i]);
-    if (i < n - 1) {
-        System.out.print(" ");
-    }
+    System.out.print(arr[i]+" ");
+   
 }
         sc.close();
     }
