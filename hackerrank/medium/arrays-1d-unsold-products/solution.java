@@ -22,10 +22,8 @@ public class Solution {
             insertPos++;
         }
        for (int i = 0; i < n; i++) {
-    System.out.print(arr[i]);
-    if (i < n - 1) {
-        System.out.print(" ");
-    }
+    System.out.print(arr[i]+" ");
+   
 }
         sc.close();
     }
